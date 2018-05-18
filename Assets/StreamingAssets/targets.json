@@ -1,0 +1,26 @@
+{
+  "images" :
+  [
+    {
+      "image" : "argame00.jpg",
+      "name" : "argame",
+      "size" : [8.56, 5.4],
+      "uid" : "uid-string, should NOT duplicate",
+      "meta" : "what ever string you like."
+    },
+    {
+      "image" : "idback.jpg",
+      "name" : "idback",
+      "size" : [8.56, 5.4],
+      "uid" : "uid-string, should NOT duplicate",
+      "meta" : "what ever string you like."
+    },
+	{
+		"image" : "namecard.jpg",
+    "name" : "namecard",
+    "size" : [8.56, 5.4],
+    "uid" : "uid-string, should NOT duplicate",
+    "meta" : "what ever string you like."
+	}
+  ]
+}
