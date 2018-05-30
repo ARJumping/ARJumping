@@ -1,2 +1,2 @@
 # ARJumping
-A small VR game
+A small AR game
