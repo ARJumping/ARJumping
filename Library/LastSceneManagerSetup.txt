@@ -1,4 +1,7 @@
 sceneSetups:
-- path: Assets/UnityChanAR/Scenes/ARJumping.unity
+- path: Assets/Scenes/NewGame.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Scenes/Playing.unity
+  isLoaded: 0
+  isActive: 0

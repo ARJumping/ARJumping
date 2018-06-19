@@ -259,3 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Assets/Editor/Vuforia
+/Assets/Vuforia
+/Assets/Models/VuforiaMars_ModelTarget/ddcf29fe83b64ee984697b36afc5e823
